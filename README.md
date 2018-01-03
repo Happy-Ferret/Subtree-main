@@ -1,2 +1,2 @@
 # Subtree-main
-Main repository for a subtree/subrepo test
+Main repository for a subtree/subrepo test.
